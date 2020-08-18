@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![KThirty's github stats](https://github-readme-stats.vercel.app/api?username=kthirty)](https://github.com/anuraghazra/github-readme-stats)
+[![KThirty's github stats](https://github-readme-stats.vercel.app/api?username=kthirty&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Contact Me
