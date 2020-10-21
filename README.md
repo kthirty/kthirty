@@ -3,7 +3,7 @@
 
 
 ### Contact Me
-- [blog.kthirty.top](blog.kthirty.top)
+- [blog.kthirty.top](https://blog.kthirty.top)
 
 <!--
 **kthirty/kthirty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
